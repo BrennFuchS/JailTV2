@@ -1,0 +1,4 @@
+C:\Users\pross\source\repos\JailTV2\JailTV2\bin\Release\JailTV2.dll
+C:\Users\pross\source\repos\JailTV2\JailTV2\obj\Release\JailTV2.csprojAssemblyReference.cache
+C:\Users\pross\source\repos\JailTV2\JailTV2\obj\Release\JailTV2.csproj.CoreCompileInputs.cache
+C:\Users\pross\source\repos\JailTV2\JailTV2\obj\Release\JailTV2.dll
